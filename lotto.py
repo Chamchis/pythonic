@@ -26,4 +26,4 @@ result_no = lotto_drwt_n_bonusNo(output)
 print(f'당첨 번호와 보너스 번호는 {result_no} 입니다!.')
 
 #zzzzzz
-# 깃허브 데스크탑 
+# 깃허브 데스크탑입니다ㅋㅋㅋ
