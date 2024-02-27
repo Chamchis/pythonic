@@ -24,5 +24,3 @@ output = lotto_drwNo(drwno)
 print(f'로또 {drwno} 회차의 정보는 {output} 입니다!.')
 result_no = lotto_drwt_n_bonusNo(output)
 print(f'당첨 번호와 보너스 번호는 {result_no} 입니다!.')
-
-ㅋㅌㅊㅋㅌㅊㅋㅌㅊㅋㅌㅊㅌㅋ
