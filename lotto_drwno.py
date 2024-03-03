@@ -18,6 +18,7 @@ def print_lotto_info(draw_no):
 draw_no = input('원하시는 로또 회차를 입력해주세요: ')
 print_lotto_info(draw_no)
 
+
 import requests
 number = input("회차:")
 if int(number)<= 1108:
